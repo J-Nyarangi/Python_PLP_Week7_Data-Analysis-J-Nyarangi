@@ -49,6 +49,3 @@ A comprehensive analysis of the classic Iris dataset, exploring flower character
 2. Open and run the jupyter notebook:
    ```bash
    jupyter notebook DataAnalysis.ipynb
-
-
-
